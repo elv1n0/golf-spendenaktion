@@ -24,10 +24,4 @@ Repository herunterladen und `index.html` im Browser öffnen. Keine Installation
 
 ## Demo und Grenzen
 
-Dies ist eine Simulation. Es werden keine echten Spenden erfasst, keine Zahlungen ausgelöst und keine Werte dauerhaft gespeichert. Nach dem Neuladen gelten wieder die Beispielwerte. Es gibt kein Backend und keine Anbindung an einen Zahlungsanbieter. Änderungen in diesem Repository aktualisieren keine bereits gehostete Website automatisch. Eine vollständige Browser- und Barrierefreiheitsprüfung steht noch aus.
-
-## Herkunft und Aufbereitung
-
-Grundlage ist der vorhandene Prototyp aus `Bahn13_Quellcode`. Für dieses Repository wurden das eingebettete CSS und JavaScript mit KI-Unterstützung in eigene Dateien aufgeteilt und diese README ergänzt. Die Funktionslogik und Gestaltung wurden dabei beibehalten. Diese Aufbereitung macht keine Aussage darüber, wie der ursprüngliche Prototyp entstanden ist.
-
-Clubname, Logo und Bahngrafik sind Bestandteil des bereitgestellten Prototyps. Dieses Repository vergibt keine Nutzungsrechte an diesen Inhalten.
+Dies ist eine Simulation. Es werden keine echten Spenden erfasst, keine Zahlungen ausgelöst und keine Werte dauerhaft gespeichert. Nach dem Neuladen gelten wieder die Beispielwerte. Es gibt kein Backend und keine Anbindung an einen Zahlungsanbieter. Änderungen in diesem Repository aktualisieren keine bereits gehostete Website automatisch.
